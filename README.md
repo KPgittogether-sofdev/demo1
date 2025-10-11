@@ -12,3 +12,5 @@ dev branch
 ###FEATURE TEST
 
 made fix from dev branch 
+
+THIS IS AN UPDATE FOR AN VCE CLASS ASSIGNMENT THAT I AM POSTING 10/10/25
